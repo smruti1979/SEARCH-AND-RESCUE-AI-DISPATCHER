@@ -1,0 +1,6 @@
+{
+  "name": "Search & Rescue AI Dispatcher",
+  "description": "An elite Search & Rescue tactical command dashboard using server-side Gemini AI to analyze multi-source disaster feeds, locate signs of life, map coordinates, and manage dispatch teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
