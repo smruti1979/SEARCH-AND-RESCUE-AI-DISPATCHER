@@ -38,7 +38,7 @@ The **Elite Search & Rescue AI Dispatcher** is a joint operations cockpit that i
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Set the `GEMINI_API_KEY` in [.env.local](.env) to your Gemini API key
 3. Run the app:
    `npm run dev`
 4. Open the app in `http://localhost:3000/`
