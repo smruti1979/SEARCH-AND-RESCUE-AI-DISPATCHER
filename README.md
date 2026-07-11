@@ -3,6 +3,8 @@
 A tactical command center for disaster response that turns raw, unstructured field reports into actionable rescue intelligence in real time.
 
 Built as part of an AI boot camp organized by Google.
+## 📺 Demonstration Video
+Watch the [Elite Search & Rescue AI Dispatcher Demo Video](https://youtu.be/fOSkntCLWSM) to see the system in action.
 
 ## Overview
 
